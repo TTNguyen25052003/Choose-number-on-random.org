@@ -13,6 +13,7 @@
     'use strict';
     
     function controlRandom() {
+        //Choose you number here
         const happyNumber = 15
 
         let id = document.body.getElementsByTagName('div')[0].id
